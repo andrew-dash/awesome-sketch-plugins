@@ -2,9 +2,9 @@
 
 A curated list of awesome sketch plugins.
 
-- [Color Contrast Analyzer](https://github.com/getflourish/sketch-color-contrast-analyser)
-- [Image Compressor](https://github.com/BohemianCoding/sketch-image-compressor)
-- [Sketch Palettes](https://github.com/andrewfiorillo/sketch-palettes)
-- [Sketch Runner](http://sketchrunner.com/)
-- [SVGO Compressor](https://github.com/BohemianCoding/svgo-compressor)
-- [Symbol Organizer](https://github.com/sonburn/symbol-organizer)
+- [Color Contrast Analyzer](https://github.com/getflourish/sketch-color-contrast-analyser) (calculate the color contrast of two layers and evaluate it against the WCAG)
+- [Image Compressor](https://github.com/BohemianCoding/sketch-image-compressor) (compress bitmap assets to keep filesize to a minimum)
+- [Sketch Palettes](https://github.com/andrewfiorillo/sketch-palettes) (export and import color, gradient, and pattern fill presets)
+- [Sketch Runner](http://sketchrunner.com/) (quickly search and execute plugin and sketch commands)
+- [SVGO Compressor](https://github.com/BohemianCoding/svgo-compressor) (compress SVG assets using SVGO on export)
+- [Symbol Organizer](https://github.com/sonburn/symbol-organizer) (organize the symbols page and layer list alphabetically with layout configuration)
