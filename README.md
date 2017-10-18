@@ -15,6 +15,7 @@ This is a curated list of plugins that really boost the capabilities of an alrea
 - [SVGO Compressor](https://github.com/BohemianCoding/svgo-compressor) (compress SVG assets using SVGO on export)
 
 ### Productivity / Organization
+- [Rename It](https://github.com/rodi01/RenameIt) (Easily rename many layers)
 - [Sketch Runner](http://sketchrunner.com/) (quickly search and execute plugin and sketch commands)
 - [Symbol Organizer](https://github.com/sonburn/symbol-organizer) (organize the symbols page and layer list alphabetically with layout configuration)
 
