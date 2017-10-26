@@ -15,6 +15,7 @@ This is a curated list of plugins that really boost the capabilities of an alrea
 - [SVGO Compressor](https://github.com/BohemianCoding/svgo-compressor) (compress SVG assets using SVGO on export)
 
 ### Productivity / Organization
+- [Artboards to PDF](https://github.com/andrewfiorillo/sketch-artboards-to-pdf) (Export multiple artboards or pages to a single PDF document)
 - [Git Sketch](https://github.com/mathieudutour/git-sketch-plugin) (Commit and generate pretty diffs inside sketch)
 - [Rename It](https://github.com/rodi01/RenameIt) (Easily rename many layers)
 - [Sketch Runner](http://sketchrunner.com/) (quickly search and execute plugin and sketch commands)
